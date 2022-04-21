@@ -1,2 +1,2 @@
-# whello-variation-image
+# whello-variation-gallery
 Plugin to allow multiple image in variation product

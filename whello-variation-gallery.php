@@ -2,7 +2,6 @@
 /**
  * Whello Variation Gallery
  *
- * @package       WHVG
  * @author        Muhammad Ibrahim
  * @license       gplv2-or-later
  * @version       1.0.0
@@ -17,7 +16,7 @@
  * Text Domain:   whello-variation-gallery
  * Domain Path:   /languages
  * License:       GPLv2 or later
- * License URI:   https://www.gnu.org/licenses/gpl-2.0.html
+ * License URI:   https://www.gnu.org/licenses/gpl-3.0.html
  *
  * You should have received a copy of the GNU General Public License
  * along with Whello Variation Gallery. If not, see <https://www.gnu.org/licenses/gpl-2.0.html/>.
